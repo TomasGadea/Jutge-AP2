@@ -26,3 +26,4 @@ Companys que han fet aportacions de codi:
 
 - Ferran Hernandez Caralt
 - Alejandro Campayo Fernández
+- Martí Cortada Garcia
