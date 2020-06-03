@@ -20,3 +20,8 @@ Tots els programes estan anomenats amb el codi del problema al qual fan referèn
 
 Per a més informació, contacteu amb els autors:
 - Tomás Gadea Alcaide: 01tomas.gadea@gmail.com
+
+## Contributing
+Companys que han fet aportacions de codi:
+
+- Ferran Hernandez Caralt
