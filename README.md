@@ -25,3 +25,4 @@ Per a més informació, contacteu amb els autors:
 Companys que han fet aportacions de codi:
 
 - Ferran Hernandez Caralt
+- Alejandro Campayo Fernández
