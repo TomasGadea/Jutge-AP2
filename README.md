@@ -24,6 +24,8 @@ Per a més informació, contacteu amb els autors:
 ## Contributing
 Companys que han fet aportacions de codi:
 
-- Ferran Hernandez Caralt
-- Alejandro Campayo Fernández
-- Martí Cortada Garcia
+- _**Ferran** Hernandez Caralt_
+- _**Alejandro** Campayo Fernández_
+- _**Martí** Cortada Garcia_
+- _**Pau** Redón Muñoz_
+- _**Ricard** Tarré Mira_
