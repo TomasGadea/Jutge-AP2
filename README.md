@@ -29,3 +29,4 @@ Companys que han fet aportacions de codi:
 - _**Martí** Cortada Garcia_
 - _**Pau** Redón Muñoz_
 - _**Ricard** Tarré Mira_
+- _**Marc** Torrens Punsola_
