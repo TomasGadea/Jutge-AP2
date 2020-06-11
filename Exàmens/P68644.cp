@@ -1,4 +1,5 @@
-// Push negations  (Marc Torrens Punsola)
+// Push negations   (Ricard Tarré Mira)
+
 
 #include <iostream>
 #include <string>
@@ -65,33 +66,26 @@ class Formula {
             oss << ')';
         }
     }
-    static void push (Node* a) {
-        if (a->neg){
-            if (isalpha(a->op)){
-                a -> neg = true;
+
+    static void change_negation(Node*& p){
+         if(p != NULL){
+            p->neg = not p->neg;
+         }
+    }
+
+    static void pushament(Node*& p){
+        if(p != NULL){
+            if(p->neg){
+                if(p->op == '+' or p->op == '*'){
+                    if(p->op == '+') p->op = '*';
+                    else p->op = '+';
+                    p->neg = not p->neg;
+                    change_negation(p->left);
+                    change_negation(p->right);
+                }
             }
-            else if (a->op == '+'){
-                a -> left -> neg = not a -> left -> neg;
-                a -> right -> neg = not a -> right -> neg;
-                a -> op = '*';
-                a -> neg = false;
-                push (a -> left);
-                push (a -> right);
-            }
-            else {
-                a -> left -> neg = not a -> left -> neg;
-                a -> right -> neg = not a -> right -> neg;
-                a -> op = '+';
-                a -> neg = false;
-                push (a -> left);
-                push (a -> right);
-            }
-        }
-        else {
-            if (not isalpha(a -> op)){
-                push (a -> left);
-                push (a -> right);
-            }
+            pushament(p->left);
+            pushament(p->right);
         }
     }
 
@@ -120,7 +114,7 @@ public:
 
     /** Pushes all negations to the leaves. */
     void push_negations () {
-        push(root);
+        pushament(root);
     }
 
 };
