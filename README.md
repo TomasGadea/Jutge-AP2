@@ -1,4 +1,11 @@
-# Jutge-AP2 <img src="images/jutge.png" width=77 height=75 align=right>  <img src="images/semafor.png" width=75 align=right>
+# Jutge-AP2 <img src="images/jutge.png" width=77 height=75 align=right></a>  <img src="images/semafor.png" width=75 align=right></a>
+
+<!-- badges: start -->
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/TomasGadea/jutge-ap2/issues/new)
+[![HitCount](http://hits.dwyl.com/TomasGadea/Jutge-AP2.svg)](http://hits.dwyl.com/TomasGadea/Jutge-AP2)
+
+<!-- badges: end -->
+
 
 <br>
 
