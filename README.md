@@ -2,7 +2,10 @@
 
 Aquest és un repositori públic dirigit als estudiants de l'assignatura d'[Algorísmia i Programació 2](https://www.cs.upc.edu/~jordicf/Teaching/AP2/). Conté la majoria dels programes per resoldre els problemes del [Jutge](https://jutge.org/) corresponents.
 
-**Nota:** Encara no estàn disponibles tots els programes, continuem en desenvolupament 💻⚙️.
+**Nota:** Les solucions que es proposen poden NO ser òptimes, s'accepten propostes de millora. (Només ens hem assegurat que el Jutge les accepti amb semàfor verd. <img src="images/semafor.png" width=30>)
+
+
+
 
 ## Carpetes
 
