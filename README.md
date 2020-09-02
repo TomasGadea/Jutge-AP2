@@ -1,10 +1,5 @@
-# Jutge-AP2
-<br>
+# Jutge-AP2 <img src="images/jutge.png" width=77 height=75 align=right>  <img src="images/semafor.png" width=75 align=right>
 
-<img src="images/jutge.png" width=77 height=75 align=right>
-<img src="images/semafor.png" width=75 align=right>
-
-<br>
 
 Aquest és un repositori públic dirigit als estudiants de l'assignatura d'[Algorísmia i Programació 2](https://www.cs.upc.edu/~jordicf/Teaching/AP2/). Conté la majoria dels programes per resoldre els problemes del [Jutge](https://jutge.org/) corresponents.
 
