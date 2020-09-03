@@ -4,7 +4,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/TomasGadea/jutge-ap2/issues/new)
 [![HitCount](http://hits.dwyl.com/TomasGadea/Jutge-AP2.svg)](http://hits.dwyl.com/TomasGadea/Jutge-AP2)
 [![GitHub followers](https://img.shields.io/github/followers/TomasGadea?label=Follow&style=social)](https://github.com/TomasGadea)
-[![Linkedin](https://img.shields.io/?style=social&logo=twitter)](https://github.com/TomasGadea)
+[![Linkedin](https://img.shields.io/badge/?style=social&logo=Linkedin)](https://github.com/TomasGadea)
 
 
 <!-- badges: end -->
