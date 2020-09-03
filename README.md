@@ -5,7 +5,7 @@
 [![HitCount](http://hits.dwyl.com/TomasGadea/Jutge-AP2.svg)](http://hits.dwyl.com/TomasGadea/Jutge-AP2)
 
 [![GitHub followers](https://img.shields.io/github/followers/TomasGadea?label=Follow&style=social)](https://github.com/TomasGadea)
-[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Contact&style=social&logo=Linkedin)](linkedin.com/in/tomas-gadea)
+[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Contact&style=social&logo=Linkedin)](https://www.linkedin.com/in/tomas-gadea/)
 
 
 <!-- badges: end -->
