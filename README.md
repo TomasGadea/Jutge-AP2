@@ -5,6 +5,7 @@
 [![HitCount](http://hits.dwyl.com/TomasGadea/Jutge-AP2.svg)](http://hits.dwyl.com/TomasGadea/Jutge-AP2)
 [![GitHub followers](https://img.shields.io/github/followers/TomasGadea?label=Follow&style=social)](https://github.com/TomasGadea)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin]](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 
 
 <!-- badges: end -->
