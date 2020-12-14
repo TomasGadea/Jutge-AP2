@@ -3,7 +3,6 @@
 <!-- badges: start -->
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/TomasGadea/jutge-ap2/issues/new)
 <!-- [![HitCount](http://hits.dwyl.com/TomasGadea/Jutge-AP2.svg)](http://hits.dwyl.com/TomasGadea/Jutge-AP2) -->
-
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/TomasGadea/Jutge-AP2)
 
 [![GitHub followers](https://img.shields.io/github/followers/TomasGadea?label=Follow&style=social)](https://github.com/TomasGadea)
