@@ -45,3 +45,4 @@ Companys que han fet aportacions de codi:
 - _**Pau** Redón Muñoz_
 - _**Ricard** Tarré Mira_
 - _**Marc** Torrens Punsola_
+- _**Jordi** Baroja Fernandez_
