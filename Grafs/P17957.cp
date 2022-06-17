@@ -1,3 +1,12 @@
+/*
+    WARNING: This code is no longer accepted by Jutge.org
+             If you have the solution to this problem and want to share it,
+             please open a PR and/or contact 01tomas.gadea@gmail.com
+             This code will remain available for inspiration purposes.
+
+             Sorry for the inconvenience
+*/
+
 // Electrical grids
 
 #include<iostream>
