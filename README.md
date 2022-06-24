@@ -46,3 +46,5 @@ Companys que han fet aportacions de codi:
 - _**Ricard** Tarré Mira_
 - _**Marc** Torrens Punsola_
 - _**Jordi** Baroja Fernandez_
+- _**Nathaniel** Mitrani Hadida_
+- _**Alex** Serrano_
